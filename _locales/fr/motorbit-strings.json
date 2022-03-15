@@ -1,0 +1,10 @@
+{
+  "motorbit.back|block": "Reculer avec une vitesse de %n",
+  "motorbit.brake|block": "Arrêter",
+  "motorbit.forward|block": "Avancer avec une vitesse de %n",
+  "motorbit.freestyle|block": "Vitesse roue gauche %m| Vitesse roue droite %n",
+  "motorbit.turnleft|block": "Tourner à gauche avec une vitesse de %n",
+  "motorbit.turnright|block": "Tourner à droite avec une vitesse de %n",
+  "motorbit|block": "motorbit",
+  "{id:category}Motorbit": "Motorbit"
+}
